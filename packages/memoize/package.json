@@ -34,7 +34,7 @@
     "test": "ava"
   },
   "dependencies": {
-    "ses": "workspace:^"
+    "ses": "0.0.0"
   },
   "devDependencies": {
     "@endo/init": "workspace:^",
