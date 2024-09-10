@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@endo/compartment-mapper": "workspace:^",
-    "ses": "workspace:^",
+    "ses": "0.0.0",
     "test262-harness": "^10.0.0"
   },
   "devDependencies": {
