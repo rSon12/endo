@@ -33,7 +33,7 @@
   "dependencies": {
     "@endo/bundle-source": "workspace:^",
     "@endo/compartment-mapper": "workspace:^",
-    "@endo/daemon": "workspace:^",
+    "@endo/daemon": "0.1.1",
     "@endo/errors": "workspace:^",
     "@endo/eventual-send": "workspace:^",
     "@endo/exo": "workspace:^",
