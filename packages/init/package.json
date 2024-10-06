@@ -35,9 +35,9 @@
   },
   "dependencies": {
     "@endo/base64": "workspace:^",
-    "@endo/eventual-send": "workspace:^",
+    "@endo/eventual-send": "0.14.1",
     "@endo/lockdown": "workspace:^",
-    "@endo/promise-kit": "workspace:^"
+    "@endo/promise-kit": "0.2.30"
   },
   "files": [
     "LICENSE*",
