@@ -76,7 +76,7 @@
     "test:platform-compatibility": "node test/package/test.cjs"
   },
   "dependencies": {
-    "@endo/env-options": "workspace:^"
+    "@endo/env-options": "0.1.1"
   },
   "devDependencies": {
     "@endo/compartment-mapper": "workspace:^",
