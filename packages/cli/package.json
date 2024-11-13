@@ -31,10 +31,10 @@
     "test": "ava"
   },
   "dependencies": {
-    "@endo/bundle-source": "workspace:^",
+    "@endo/bundle-source": "2.0.2",
     "@endo/compartment-mapper": "workspace:^",
-    "@endo/daemon": "workspace:^",
-    "@endo/errors": "workspace:^",
+    "@endo/daemon": "0.1.1",
+    "@endo/errors": "0.1.1",
     "@endo/eventual-send": "workspace:^",
     "@endo/exo": "workspace:^",
     "@endo/far": "workspace:^",
@@ -42,12 +42,12 @@
     "@endo/lockdown": "workspace:^",
     "@endo/pass-style": "workspace:^",
     "@endo/patterns": "workspace:^",
-    "@endo/promise-kit": "workspace:^",
-    "@endo/stream-node": "workspace:^",
-    "@endo/where": "workspace:^",
+    "@endo/promise-kit": "0.2.30",
+    "@endo/stream-node": "0.2.0",
+    "@endo/where": "0.1.1",
     "commander": "^5.0.0",
-    "open": "^9.1.0",
-    "ses": "workspace:^"
+    "open": "^10.0.0",
+    "ses": "0.0.0"
   },
   "devDependencies": {
     "ava": "^6.1.3",
