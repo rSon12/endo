@@ -31,7 +31,7 @@
     "test": "ava"
   },
   "dependencies": {
-    "@endo/bundle-source": "workspace:^",
+    "@endo/bundle-source": "4.0.0",
     "@endo/compartment-mapper": "workspace:^",
     "@endo/daemon": "workspace:^",
     "@endo/errors": "workspace:^",
