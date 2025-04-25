@@ -21,7 +21,7 @@
     "lint": "eslint '**/*.js'"
   },
   "dependencies": {
-    "ses": "workspace:^"
+    "ses": "1.12.0"
   },
   "files": [
     "LICENSE*",
