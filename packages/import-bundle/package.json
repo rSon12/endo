@@ -41,9 +41,9 @@
   "dependencies": {
     "@endo/base64": "workspace:^",
     "@endo/compartment-mapper": "workspace:^",
-    "@endo/errors": "workspace:^",
+    "@endo/errors": "1.2.10",
     "@endo/where": "workspace:^",
-    "ses": "workspace:^"
+    "ses": "1.12.0"
   },
   "devDependencies": {
     "@endo/bundle-source": "workspace:^",
