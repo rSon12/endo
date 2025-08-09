@@ -58,7 +58,7 @@
     "@endo/cjs-module-analyzer": "workspace:^",
     "@endo/module-source": "workspace:^",
     "@endo/zip": "workspace:^",
-    "ses": "workspace:^"
+    "ses": "0.0.0"
   },
   "devDependencies": {
     "ava": "^6.1.3",
