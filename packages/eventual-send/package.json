@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/endojs/endo#readme",
   "dependencies": {
-    "@endo/env-options": "workspace:^"
+    "@endo/env-options": "0.1.1"
   },
   "devDependencies": {
     "@endo/lockdown": "workspace:^",
