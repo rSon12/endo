@@ -40,10 +40,10 @@
   },
   "dependencies": {
     "@endo/base64": "workspace:^",
-    "@endo/compartment-mapper": "workspace:^",
-    "@endo/errors": "workspace:^",
-    "@endo/where": "workspace:^",
-    "ses": "workspace:^"
+    "@endo/compartment-mapper": "0.3.0",
+    "@endo/errors": "0.1.1",
+    "@endo/where": "0.1.1",
+    "ses": "0.0.0"
   },
   "devDependencies": {
     "@endo/bundle-source": "workspace:^",
