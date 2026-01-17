@@ -41,7 +41,7 @@
     "test": "ava"
   },
   "dependencies": {
-    "@endo/errors": "workspace:^",
+    "@endo/errors": "1.0.0",
     "@endo/init": "workspace:^",
     "@endo/stream": "workspace:^",
     "ses": "workspace:^"
