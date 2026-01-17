@@ -32,10 +32,10 @@
     "test": "ava"
   },
   "dependencies": {
-    "@endo/common": "workspace:^",
-    "@endo/errors": "workspace:^",
+    "@endo/common": "1.0.2",
+    "@endo/errors": "1.0.0",
     "@endo/eventual-send": "workspace:^",
-    "@endo/marshal": "workspace:^",
+    "@endo/marshal": "0.5.1",
     "@endo/promise-kit": "workspace:^"
   },
   "devDependencies": {
