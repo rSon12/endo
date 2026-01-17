@@ -41,7 +41,7 @@
     "test:xs": "exit 0"
   },
   "dependencies": {
-    "@endo/errors": "workspace:^",
+    "@endo/errors": "1.0.0",
     "@endo/eventual-send": "workspace:^",
     "@endo/promise-kit": "workspace:^"
   },
