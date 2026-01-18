@@ -42,10 +42,10 @@
   "homepage": "https://github.com/endojs/endo#readme",
   "dependencies": {
     "@endo/common": "workspace:^",
-    "@endo/errors": "workspace:^",
+    "@endo/errors": "1.0.0",
     "@endo/eventual-send": "workspace:^",
     "@endo/nat": "workspace:^",
-    "@endo/pass-style": "workspace:^",
+    "@endo/pass-style": "0.1.1",
     "@endo/promise-kit": "workspace:^"
   },
   "devDependencies": {
