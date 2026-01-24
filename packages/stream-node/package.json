@@ -42,9 +42,9 @@
   },
   "dependencies": {
     "@endo/errors": "workspace:^",
-    "@endo/init": "workspace:^",
-    "@endo/stream": "workspace:^",
-    "ses": "workspace:^"
+    "@endo/init": "0.5.30",
+    "@endo/stream": "0.2.0",
+    "ses": "0.0.0"
   },
   "devDependencies": {
     "@endo/ses-ava": "workspace:^",
