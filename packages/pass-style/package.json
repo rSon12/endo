@@ -35,9 +35,9 @@
   },
   "dependencies": {
     "@endo/env-options": "workspace:^",
-    "@endo/errors": "workspace:^",
+    "@endo/errors": "0.1.1",
     "@endo/eventual-send": "workspace:^",
-    "@endo/promise-kit": "workspace:^",
+    "@endo/promise-kit": "0.2.30",
     "@fast-check/ava": "^1.1.5"
   },
   "devDependencies": {
