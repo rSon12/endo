@@ -33,9 +33,9 @@
   },
   "homepage": "https://github.com/endojs/endo#readme",
   "dependencies": {
-    "@endo/errors": "workspace:^",
+    "@endo/errors": "0.1.1",
     "@endo/eventual-send": "workspace:^",
-    "@endo/pass-style": "workspace:^"
+    "@endo/pass-style": "0.1.1"
   },
   "devDependencies": {
     "@endo/init": "workspace:^",
