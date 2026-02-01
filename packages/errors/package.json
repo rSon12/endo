@@ -36,7 +36,7 @@
     "test:xs": "exit 0"
   },
   "dependencies": {
-    "ses": "workspace:^"
+    "ses": "0.0.0"
   },
   "devDependencies": {
     "@endo/lockdown": "workspace:^",
