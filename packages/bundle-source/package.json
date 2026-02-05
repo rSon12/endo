@@ -27,10 +27,10 @@
   "dependencies": {
     "@endo/base64": "workspace:^",
     "@endo/compartment-mapper": "workspace:^",
-    "@endo/evasive-transform": "workspace:^",
-    "@endo/init": "workspace:^",
+    "@endo/evasive-transform": "0.1.3",
+    "@endo/init": "0.5.30",
     "@endo/promise-kit": "workspace:^",
-    "@endo/where": "workspace:^",
+    "@endo/where": "0.1.1",
     "@rollup/plugin-commonjs": "^19.0.0",
     "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-node-resolve": "^13.0.0",
