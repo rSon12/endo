@@ -34,12 +34,12 @@
   },
   "dependencies": {
     "@endo/common": "workspace:^",
-    "@endo/env-options": "workspace:^",
-    "@endo/errors": "workspace:^",
+    "@endo/env-options": "0.1.1",
+    "@endo/errors": "0.1.1",
     "@endo/eventual-send": "workspace:^",
-    "@endo/far": "workspace:^",
-    "@endo/pass-style": "workspace:^",
-    "@endo/patterns": "workspace:^"
+    "@endo/far": "0.1.2",
+    "@endo/pass-style": "0.1.1",
+    "@endo/patterns": "0.2.0"
   },
   "devDependencies": {
     "@endo/init": "workspace:^",
