@@ -38,8 +38,8 @@
   },
   "dependencies": {
     "@endo/env-options": "workspace:^",
-    "@endo/init": "workspace:^",
-    "ses": "workspace:^"
+    "@endo/init": "0.5.30",
+    "ses": "0.0.0"
   },
   "peerDependencies": {
     "ava": "^5.3.0 || ^6.1.2"
